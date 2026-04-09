@@ -110,7 +110,7 @@ linux 系统可以选择装 Kali 或 Ubuntu，不推荐环境不太兼容的 Cen
 
 一些笔记软件：语雀 飞书 Typora
 
-**提交在 github ****[https://github.com/Fruit-Guardians/2026-Spring-Training](https://github.com/Fruit-Guardians/learning)**** **
+**提交在 github** ****[https://github.com/Fruit-Guardians/2026-Spring-Training](https://github.com/Fruit-Guardians/learning)****
 
 ## 作业列表
 

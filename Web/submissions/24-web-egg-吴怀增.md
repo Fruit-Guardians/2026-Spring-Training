@@ -16,8 +16,7 @@
 
 ## 2.Web安全入门指北—GET
 
-题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))
-
+题目来源[[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET]([[MoeCTF 2021   2021年MoeCTF]Web安全入门指北—GET - NSSCTF](https://www.nssctf.cn/problem/3412))
 ！[题目截图](https://github.com/magicliuyu/picture/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-18%20205130.png)
 这一题是php语言用get请求，一般来说可以用hackbar插件进行get请求，把moe="flag"就可以获得flag
 
